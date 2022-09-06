@@ -1,0 +1,4 @@
+for : es un bucle de informacion que busca alcanzar un resultado y no se detiene hasta que lo encuentra
+`&&`, significa AND y dara como resultado verdadero si ambas condiciones son verdaderas o devolvera falso si ambas o una de las condiciones son falsas
+`||`, Significa Or y significa que si una cosa es verdadera y otra falsa, devolvera un verdadero. Si ambas cosas son verdaderas devolvera tambien verdadero y se ejectura el comando, ahora si ambas cosas son falsas, sera el resultado falso y no se ejecutara la accion.
+`!` es un valor que significa No, y devuelve lo contrario de lo que se enuncia, ejemplo !True, devolvera un false
