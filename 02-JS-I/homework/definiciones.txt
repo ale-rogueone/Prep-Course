@@ -1,0 +1,6 @@
+Variables : es algo que contiene datos, y que se puede cambiar y modificiar
+Strings: Un string es una palabra o comando que se guarda entre comillas
+Funciones : es un mini programa que indica una tarea para realizar
+Declaraciones: son tipos de datos 
+valores booleanos: son datos que pueden ser verdaderos o falsos
+
